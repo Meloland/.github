@@ -19,7 +19,7 @@ Meloland 是一个专注于开发多平台机器人服务支持框架、支持�
 
 ## 📢 联系我们
 想要了解更多或与我们联系？请通过以下方式：
-- **邮箱**: [melodyecho@glowmem.com](mailto:melodyecho@glowmem.com)
+- **邮箱**: [contact@meloland.org](mailto:contact@meloland.org)
 - **社交媒体**: 各大社交平台的群组尚在筹备中，敬请期待。
 
 ## 💌 结语
